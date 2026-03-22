@@ -2,7 +2,7 @@
 
 A lightweight, Go-based command-line (CLI) tool for stress testing API endpoints and comparing performance between two environments (e.g., Local vs. Server/Production). 
 
-> *We all know the local server is definitely faster, but we just want to make it more fun!* 😉🚀
+> *We all know the local server is definitely faster, but we just want to make it more fun! and of course you would like to hug your API with 50000 requests* 🥰
 
 ## ✨ Features
 - **Concurrent Load Testing:** Uses goroutines to send HTTP requests simultaneously.
