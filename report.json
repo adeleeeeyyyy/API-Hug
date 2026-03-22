@@ -1,0 +1,26 @@
+{
+ "local_stats": {
+  "environtment": "Local",
+  "url": "http://127.0.0.1:8080/api/health",
+  "total_requests": 100,
+  "success_count": 100,
+  "error_count": 0,
+  "total_time_ns": 4762643,
+  "min_time_ns": 2450702,
+  "max_time_ns": 4284046,
+  "avg_time_ns": 3551606
+ },
+ "server_stats": {
+  "environtment": "Server",
+  "url": "https://api-synconomics.synchronizeteams.com/api/health",
+  "total_requests": 100,
+  "success_count": 100,
+  "error_count": 0,
+  "total_time_ns": 424330878,
+  "min_time_ns": 340602185,
+  "max_time_ns": 423683390,
+  "avg_time_ns": 389446108
+ },
+ "difference_ms": 385.894502,
+ "faster_env": "Local"
+}
